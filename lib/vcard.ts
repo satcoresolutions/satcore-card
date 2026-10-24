@@ -1,4 +1,4 @@
-import type { CardData } from "@/data/card";
+import type { CardData } from "@/lib/card";
 
 function esc(value: string): string {
   return value
